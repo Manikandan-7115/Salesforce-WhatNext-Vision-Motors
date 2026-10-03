@@ -16,4 +16,4 @@ WhatNext Vision Motors Salesforce CRM project focuses on shaping the future of m
 
 ## Setup Guide
 
-Please refer to the [Setup Guide](http://setup.guide.md) for step-by-step implementation instructions.
+Please refer to the [Setup Guide]([http://setup.guide.md](https://github.com/Manikandan-7115/Salesforce-WhatNext-Vision-Motors/blob/main/Docs/setup_guide.md)) for step-by-step implementation instructions.
